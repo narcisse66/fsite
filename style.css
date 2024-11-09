@@ -334,7 +334,7 @@ ul {
   height: 100%; /* S'assure que .mclass prend toute la hauteur de la fenêtre */
   text-align: center; /* Centre le texte à l'intérieur de h1 */
   padding: 0 20px;
-  background-color: #b8860b;
+  
 }
 
 .mmsge {
